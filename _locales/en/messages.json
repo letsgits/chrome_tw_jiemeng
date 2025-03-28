@@ -1,0 +1,29 @@
+{
+  "extName": {
+    "message": "AI Dream Interpreter"
+  },
+  "extDescription": {
+    "message": "Taiwan Dream Interpreter - Instantly analyze your dreams"
+  },
+  "welcomeMessage": {
+    "message": "Welcome to Taiwan Dream Interpreter! I'm your intelligent dream analysis expert. Please tell me about your dream, and I'll provide you with a professional interpretation."
+  },
+  "inputPlaceholder": {
+    "message": "Enter your dream content..."
+  },
+  "sendButton": {
+    "message": "Send"
+  },
+  "loadingMessage": {
+    "message": "AI is thinking"
+  },
+  "errorMessage": {
+    "message": "Sorry, an error occurred. Please try again later."
+  },
+  "clearButton": {
+    "message": "Clear Chat"
+  },
+  "confirmClear": {
+    "message": "Are you sure you want to clear all chat history?"
+  }
+} 

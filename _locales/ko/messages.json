@@ -1,0 +1,29 @@
+{
+  "extName": {
+    "message": "AI몽해석"
+  },
+  "extDescription": {
+    "message": "대만몽해석-꿈의 의미를 즉시 분석"
+  },
+  "welcomeMessage": {
+    "message": "대만 꿈해몽에 오신 것을 환영합니다! 저는 당신의 지능형 꿈 분석 전문가입니다. 꿈의 내용을 알려주시면 전문적인 해석을 제공해 드리겠습니다."
+  },
+  "inputPlaceholder": {
+    "message": "꿈의 내용을 입력하세요..."
+  },
+  "sendButton": {
+    "message": "전송"
+  },
+  "loadingMessage": {
+    "message": "AI 생각 중"
+  },
+  "errorMessage": {
+    "message": "죄송합니다. 오류가 발생했습니다. 나중에 다시 시도해 주세요."
+  },
+  "clearButton": {
+    "message": "채팅 지우기"
+  },
+  "confirmClear": {
+    "message": "모든 채팅 기록을 지우시겠습니까?"
+  }
+} 

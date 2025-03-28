@@ -1,0 +1,29 @@
+{
+  "extName": {
+    "message": "AI解夢"
+  },
+  "extDescription": {
+    "message": "台灣解夢-一鍵解析你的夢境含義"
+  },
+  "welcomeMessage": {
+    "message": "歡迎使用台灣解夢！ 我是您的智能解夢專家，請告訴我您的夢境內容，我將為您進行專業解析。"
+  },
+  "inputPlaceholder": {
+    "message": "請輸入您的夢境內容..."
+  },
+  "sendButton": {
+    "message": "發送"
+  },
+  "loadingMessage": {
+    "message": "AI正在思考中"
+  },
+  "errorMessage": {
+    "message": "抱歉，出現了錯誤，請稍後重試。"
+  },
+  "clearButton": {
+    "message": "清空聊天記錄"
+  },
+  "confirmClear": {
+    "message": "確定要清空所有聊天記錄嗎？"
+  }
+} 

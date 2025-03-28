@@ -1,0 +1,29 @@
+{
+  "extName": {
+    "message": "AI夢解釈"
+  },
+  "extDescription": {
+    "message": "台湾夢解釈-夢の意味を瞬時に解析"
+  },
+  "welcomeMessage": {
+    "message": "台湾夢解釈へようこそ！私はあなたのインテリジェント夢分析エキスパートです。夢の内容を教えてください。専門的な解釈を提供させていただきます。"
+  },
+  "inputPlaceholder": {
+    "message": "夢の内容を入力してください..."
+  },
+  "sendButton": {
+    "message": "送信"
+  },
+  "loadingMessage": {
+    "message": "AI考え中"
+  },
+  "errorMessage": {
+    "message": "申し訳ありません。エラーが発生しました。後でもう一度お試しください。"
+  },
+  "clearButton": {
+    "message": "チャットをクリア"
+  },
+  "confirmClear": {
+    "message": "すべてのチャット履歴を消去してもよろしいですか？"
+  }
+} 

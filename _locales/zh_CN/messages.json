@@ -1,0 +1,29 @@
+{
+  "extName": {
+    "message": "AI解梦"
+  },
+  "extDescription": {
+    "message": "台湾解梦-一键解析你的梦境含义"
+  },
+  "welcomeMessage": {
+    "message": "欢迎使用台湾解梦！我是您的智能解梦专家，请告诉我您的梦境内容，我将为您进行专业解析。"
+  },
+  "inputPlaceholder": {
+    "message": "请输入您的梦境内容..."
+  },
+  "sendButton": {
+    "message": "发送"
+  },
+  "loadingMessage": {
+    "message": "AI正在思考中"
+  },
+  "errorMessage": {
+    "message": "抱歉，出现了错误，请稍后重试。"
+  },
+  "clearButton": {
+    "message": "清空聊天记录"
+  },
+  "confirmClear": {
+    "message": "确定要清空所有聊天记录吗？"
+  }
+} 
