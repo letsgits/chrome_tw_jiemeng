@@ -1,74 +1,69 @@
-# 周公AI解夢 Chrome 擴展 | AI Dream Interpreter | AI夢解釈 | AI몽해석
+# AI解梦 Chrome 擴展 | AI Dream Interpreter | AI夢解釋 | AI몽해석
 
 [繁體中文](#繁體中文) | [简体中文](#简体中文) | [English](#english) | [日本語](#日本語) | [한국어](#한국어)
 
 ## 繁體中文
 
-一個基於 Chrome 擴展的智能解夢工具，由靈機AI提供支持。
+一個基於 Chrome 擴展的智能解夢工具，由台灣解夢提供支持。
 
 ### 功能特點
-- 🤖 智能AI解夢：使用先進的AI技術解析夢境含義
-- 💬 實時對話：支持自然語言交互
-- 🌏 多語言支持：支持繁體中文、簡體中文、英語、日語、韓語
-- 💾 歷史記錄：自動保存聊天記錄，隨時查看歷史解夢內容
-- 🎨 優雅界面：簡潔直觀的用戶界面，打字機效果的回覆動畫
-- 🔄 會話連續性：使用會話ID保持上下文連貫
+- 🤖 AI深度解析：結合前沿人工智能與傳統解夢學說，為您提供全面且深入的夢境解讀
+- 📝 夢境記錄：完整保存您的夢境內容，幫助您追蹤分析潛意識變化趨勢
+- 💬 智能對話：全天候AI解夢顧問，隨時解答您對夢境的疑惑與好奇
+- 🔒 隱私保護：您分享的夢境內容經嚴格加密處理與安全存儲，確保個人信息不被未授權第三方獲取
+- 📱 便捷使用：基本解夢功能無需註冊即可使用；註冊會員還能享受更多進階特權服務
 
 [查看更多...](#繁體中文完整文檔)
 
 ## 简体中文
 
-一个基于 Chrome 扩展的智能解梦工具，由灵机AI提供支持。
+一个基于 Chrome 扩展的智能解梦工具，由台湾解梦提供支持。
 
 ### 功能特点
-- 🤖 智能AI解梦：使用先进的AI技术解析梦境含义
-- 💬 实时对话：支持自然语言交互
-- 🌏 多语言支持：支持简体中文、繁体中文、英语、日语、韩语
-- 💾 历史记录：自动保存聊天记录，随时查看历史解梦内容
-- 🎨 优雅界面：简洁直观的用户界面，打字机效果的回复动画
-- 🔄 会话连续性：使用会话ID保持上下文连贯
+- 🤖 AI深度解析：结合前沿人工智能与传统解梦学说，从古老象征意义、现代心理学理论及大数据分析多维度入手，为用户呈上全面且深入的梦境解读
+- 📝 梦境记录：完整留存用户的梦境内容，助力追踪分析潜意识变化趋势，让用户更了解自己内心的想法
+- 💬 智能对话：配备全天候在线的AI解梦顾问，随时解答用户对梦境的疑惑与好奇，提供即时互动服务
+- 🔒 隐私保护：用户分享的梦境内容经严格加密处理与安全存储，仅用于解析服务，采用业界领先的资料保护措施，确保用户个人信息与梦境内容不被未授权第三方获取或使用
+- 📱 便捷使用：基本解梦功能无需注册即可使用；注册会员还能享受梦境历史记录保存、个人化解析报告、深度互动咨询等进阶特权服务
 
 [查看更多...](#简体中文完整文档)
 
 ## English
 
-A Chrome extension for intelligent dream interpretation, powered by LingjiAI.
+A Chrome extension for intelligent dream interpretation, powered by Taiwan Dream Interpreter.
 
 ### Features
-- 🤖 AI Dream Analysis: Advanced AI technology for dream interpretation
-- 💬 Real-time Chat: Natural language interaction
-- 🌏 Multi-language Support: Available in Simplified Chinese, Traditional Chinese, English, Japanese, and Korean
-- 💾 History Records: Auto-save chat history for future reference
-- 🎨 Elegant Interface: Clean UI with typewriter-style response animation
-- 🔄 Conversation Continuity: Maintains context using session IDs
+- 🤖 AI Deep Analysis: Combines advanced AI technology with traditional dream interpretation theories to provide comprehensive dream insights
+- 📝 Dream Records: Completely preserves your dream content, helping you track and analyze subconscious trends
+- 💬 Intelligent Dialogue: 24/7 AI dream consultant to answer your questions and curiosities about dreams
+- 🔒 Privacy Protection: Your shared dream content is strictly encrypted and securely stored, ensuring personal information is not accessed by unauthorized third parties
+- 📱 Easy to Use: Basic dream interpretation functions available without registration; registered members enjoy additional premium services
 
 [Read more...](#english-full-documentation)
 
 ## 日本語
 
-LingjiAIが提供するChrome拡張機能による夢解釈ツール。
+台湾夢解釈が提供するChrome拡張機能による夢解釈ツール。
 
 ### 特徴
-- 🤖 AI夢解釈：先進的なAI技術による夢の意味解析
-- 💬 リアルタイムチャット：自然言語での対話
-- 🌏 多言語対応：簡体字中国語、繁体字中国語、英語、日本語、韓国語
-- 💾 履歴保存：チャット履歴の自動保存
-- 🎨 エレガントなUI：タイプライター風の返信アニメーション
-- 🔄 会話の連続性：セッションIDを使用して文脈を維持
+- 🤖 AI深層解析：最先端の人工知能と伝統的な夢解釈学説を組み合わせ、包括的で深い夢の読み解きを提供
+- 📝 夢の記録：ユーザーの夢の内容を完全に保存し、潜在意識の変化傾向を追跡・分析するのに役立つ
+- 💬 インテリジェントな対話：24時間体制のAI夢解釈アドバイザーが、夢に関する疑問や好奇心にいつでも答える
+- 🔒 プライバシー保護：共有された夢の内容は厳格に暗号化され安全に保管され、個人情報が権限のない第三者にアクセスされないことを保証
+- 📱 簡単に使用：基本的な夢解釈機能は登録なしで利用可能；登録会員はさらに高度な特典サービスを享受
 
 [詳細を見る...](#日本語完全ドキュメント)
 
 ## 한국어
 
-영기AI가 제공하는 Chrome 확장 프로그램 기반 꿈해몽 도구.
+대만몽해석이 제공하는 Chrome 확장 프로그램 기반 꿈해몽 도구.
 
 ### 주요 기능
-- 🤖 AI 꿈해몽：첨단 AI 기술로 꿈의 의미 분석
-- 💬 실시간 대화：자연어 상호작용 지원
-- 🌏 다국어 지원：중국어 간체, 중국어 번체, 영어, 일본어, 한국어 지원
-- 💾 기록 저장：채팅 기록 자동 저장
-- 🎨 우아한 인터페이스：타자기 효과의 응답 애니메이션
-- 🔄 대화 연속성：세션 ID를 사용하여 컨텍스트 유지
+- 🤖 AI 심층 분석：최첨단 인공지능과 전통적인 꿈해몽 이론을 결합하여 포괄적이고 깊이 있는 꿈 해석 제공
+- 📝 꿈 기록：사용자의 꿈 내용을 완전히 보존하여 잠재의식 변화 추세를 추적하고 분석하는 데 도움
+- 💬 지능형 대화：24시간 AI 꿈해몽 컨설턴트가 꿈에 대한 질문과 호기심에 언제든지 답변
+- 🔒 개인정보 보호：공유된 꿈 내용은 엄격히 암호화되고 안전하게 저장되어 개인 정보가 무단 제3자에게 접근되지 않도록 보장
+- 📱 사용 편의성：기본 꿈해몽 기능은 등록 없이 사용 가능; 등록 회원은 추가 프리미엄 서비스 이용 가능
 
 [더 보기...](#한국어-전체-문서)
 
@@ -77,7 +72,7 @@ LingjiAIが提供するChrome拡張機能による夢解釈ツール。
 ## 繁體中文完整文檔
 
 ### 安裝方法
-1. 在 Chrome 網上應用店搜索"周公AI解夢"或直接訪問[擴展鏈接](https://chromewebstore.google.com/detail/%E5%91%A8%E5%85%ACai%E8%A7%A3%E6%A2%A6/fjdhdompgegffobpahegkcakdbbfjnod)
+1. 在 Chrome 網上應用店搜索"AI解夢"或直接訪問[擴展鏈接](https://chromewebstore.google.com/detail/ai%E8%A7%A3%E5%A4%A2/enbgckcinggdieahokdlghbhhcdoggai)
 2. 點擊"添加至 Chrome"按鈕
 3. 在彈出的確認窗口中點擊"添加擴展程序"
 
@@ -99,12 +94,12 @@ LingjiAIが提供するChrome拡張機能による夢解釈ツール。
 - 聊天記錄僅保存在本地，不會上傳服務器
 - 僅在解夢時與服務器通信
 
-[返回頂部](#周公ai解夢-chrome-擴展--ai-dream-interpreter--ai夢解釈--ai몽해석)
+[返回頂部](#ai解梦-chrome-擴展--ai-dream-interpreter--ai夢解釋--ai몽해석)
 
 ## 简体中文完整文档
 
 ### 安装方法
-1. 在 Chrome 网上应用店搜索"周公AI解梦"或直接访问[扩展链接](https://chromewebstore.google.com/detail/%E5%91%A8%E5%85%ACai%E8%A7%A3%E6%A2%A6/fjdhdompgegffobpahegkcakdbbfjnod)
+1. 在 Chrome 网上应用店搜索"AI解梦"或直接访问[扩展链接](https://chromewebstore.google.com/detail/ai%E8%A7%A3%E5%A4%A2/enbgckcinggdieahokdlghbhhcdoggai)
 2. 点击"添加至 Chrome"按钮
 3. 在弹出的确认窗口中点击"添加扩展程序"
 
@@ -126,12 +121,12 @@ LingjiAIが提供するChrome拡張機能による夢解釈ツール。
 - 聊天记录仅保存在本地，不会上传服务器
 - 仅在解梦时与服务器通信
 
-[返回顶部](#周公ai解梦-chrome-扩展--ai-dream-interpreter--ai夢解釈--ai몽해석)
+[返回頂部](#ai解梦-chrome-擴展--ai-dream-interpreter--ai夢解釋--ai몽해석)
 
 ## English Full Documentation
 
 ### Installation
-1. Search for "AI Dream Interpreter" in the Chrome Web Store or visit [extension link](https://chromewebstore.google.com/detail/%E5%91%A8%E5%85%ACai%E8%A7%A3%E6%A2%A6/fjdhdompgegffobpahegkcakdbbfjnod)
+1. Search for "AI Dream Interpreter" in the Chrome Web Store or visit [extension link](https://chromewebstore.google.com/detail/enbgckcinggdieahokdlghbhhcdoggai)
 2. Click "Add to Chrome" button
 3. Click "Add Extension" in the confirmation popup
 
@@ -153,12 +148,12 @@ LingjiAIが提供するChrome拡張機能による夢解釈ツール。
 - Chat history is stored locally, never uploaded to servers
 - Server communication occurs only during dream interpretation
 
-[Back to Top](#周公ai解梦-chrome-扩展--ai-dream-interpreter--ai夢解釈--ai몽해석)
+[Back to Top](#ai解梦-chrome-扩展--ai-dream-interpreter--ai夢解釋--ai몽해석)
 
 ## 日本語完全ドキュメント
 
 ### インストール方法
-1. Chrome ウェブストアで「AI夢解釈」を検索するか、[拡張機能リンク](https://chromewebstore.google.com/detail/%E5%91%A8%E5%85%ACai%E8%A7%A3%E6%A2%A6/fjdhdompgegffobpahegkcakdbbfjnod)にアクセス
+1. Chrome ウェブストアで「AI夢解釈」を検索するか、[拡張機能リンク](https://chromewebstore.google.com/detail/enbgckcinggdieahokdlghbhhcdoggai)にアクセス
 2. 「Chrome に追加」ボタンをクリック
 3. 確認ポップアップで「拡張機能を追加」をクリック
 
@@ -180,12 +175,12 @@ LingjiAIが提供するChrome拡張機能による夢解釈ツール。
 - チャット履歴はローカルにのみ保存
 - サーバーとの通信は夢の解釈時のみ
 
-[トップに戻る](#周公ai解夢-chrome-擴展--ai-dream-interpreter--ai夢解釈--ai몽해석)
+[トップに戻る](#ai解梦-chrome-擴展--ai-dream-interpreter--ai夢解釋--ai몽해석)
 
 ## 한국어 전체 문서
 
 ### 설치 방법
-1. Chrome 웹 스토어에서 "AI몽해석"을 검색하거나 [확장 프로그램 링크](https://chromewebstore.google.com/detail/%E5%91%A8%E5%85%ACai%E8%A7%A3%E6%A2%A6/fjdhdompgegffobpahegkcakdbbfjnod) 방문
+1. Chrome 웹 스토어에서 "AI몽해석"을 검색하거나 [확장 프로그램 링크](https://chromewebstore.google.com/detail/enbgckcinggdieahokdlghbhhcdoggai) 방문
 2. "Chrome에 추가" 버튼 클릭
 3. 확인 팝업에서 "확장 프로그램 추가" 클릭
 
@@ -207,32 +202,28 @@ LingjiAIが提供するChrome拡張機能による夢解釈ツール。
 - 채팅 기록은 로컬에만 저장
 - 서버 통신은 꿈 해석 시에만 발생
 
-[맨 위로](#周公ai解夢-chrome-擴展--ai-dream-interpreter--ai夢解釈--ai몽해석)
+[맨 위로](#ai解梦-chrome-擴展--ai-dream-interpreter--ai夢解釋--ai몽해석)
 
 ---
 
 ## 開發者 | Developer | 開發者 | 개발자
 
 - 作者 | Author | 作者 | 작성자：d.y.
-- 官網 | Website | ウェブサイト | 웹사이트：[https://www.lingjiai.com](https://www.lingjiai.com)
+- 官網 | Website | ウェブサイト | 웹사이트：[https://twjiemeng.com/](https://twjiemeng.com/)
 - 社交媒體 | Social Media | ソーシャルメディア | 소셜 미디어：
-  - X (Twitter)：[https://x.com/lingjiaicom](https://x.com/lingjiaicom)
-  - Facebook：[https://www.facebook.com/profile.php?id=61568577838185](https://www.facebook.com/profile.php?id=61568577838185)
+  - X (Twitter)：
+  - Facebook：
 
 ## 更新日誌 | Changelog | 更新履歴 | 업데이트 기록
 
-### 版本 1.1 | Version 1.1 | バージョン1.1 | 버전 1.1
-- 添加聊天會話ID功能，實現跨會話上下文保持 | Added chat session ID for maintaining context across sessions | チャットセッションID機能を追加し、セッション間のコンテキスト維持を実現 | 채팅 세션 ID 기능 추가로 세션 간 컨텍스트 유지 구현
-- 優化打字機效果的速度 | Improved typewriter effect speed | タイプライター効果の速度を最適化 | 타자기 효과 속도 최적화
-- 修復了聊天記錄保存問題 | Fixed chat history saving issues | チャット履歴の保存問題を修正 | 채팅 기록 저장 문제 해결
-
 ### 版本 1.0 | Version 1.0 | バージョン1.0 | 버전 1.0
 - 首次發布 | Initial release | 初回リリース | 최초 출시
-- 支持基本的解夢功能 | Basic dream interpretation | 基本的な夢解釈機能 | 기본 꿈해몽 기능
-- 支持多語言 | Multi-language support | 多言語対応 | 다국어 지원
-- 支持聊天歷史記錄 | Chat history | チャット履歴 | 채팅 기록
-- 支持清空聊天記錄 | Clear chat history | チャット履歴の消去 | 채팅 기록 삭제
+- 支持多語言界面 | Multi-language interface | 多言語インターフェース | 다국어 인터페이스
+- AI智能解夢功能 | AI dream interpretation | AI夢解釈機能 | AI 꿈해몽 기능
+- 聊天記錄本地保存 | Local chat history storage | チャット履歴のローカル保存 | 채팅 기록 로컬 저장
+- 打字機效果回覆 | Typewriter effect responses | タイプライター効果の返信 | 타자기 효과 응답
+- 隱私保護設計 | Privacy-focused design | プライバシー保護設計 | 개인정보 보호 설계
 
 ## 授權條款 | License | ライセンス | 라이선스
 
-Copyright © 2024 靈機AI. All rights reserved. 
+Copyright © 2025 台灣解夢. All rights reserved. 
