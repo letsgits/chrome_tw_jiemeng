@@ -1,4 +1,4 @@
-# AI解梦 Chrome 擴展 | AI Dream Interpreter | AI夢解釋 | AI몽해석
+# AI解夢 Chrome 擴展 | AI Dream Interpreter | AI夢解釋 | AI몽해석
 
 [繁體中文](#繁體中文) | [简体中文](#简体中文) | [English](#english) | [日本語](#日本語) | [한국어](#한국어)
 
